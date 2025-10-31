@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
 # Welcome to 18팀
 
-![Image](https://github.com/user-attachments/assets/dcf541ac-faeb-48f8-84de-f560dfa21fa7)
+![Image](https://github.com/user-attachments/assets/b374d19b-9a76-4af2-aab1-86b9c04af2cb)
 
 ## 1️⃣ 팀원 소개
 
