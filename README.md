@@ -186,6 +186,6 @@ readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://
 
 
 ## 11주차 - 대학원 선배 만나기 보고서
-
+![image](https://github.com/kookmin-sw/eureka-251-team-e25-sw01-18/blob/main/%EC%B2%A8%EB%B6%80%20%ED%8C%8C%EC%9D%BC/%EB%8C%80%ED%95%99%EC%9B%90%EC%83%9D%20%EB%A7%8C%EB%82%98%EA%B8%B0.jpg)
 
 
